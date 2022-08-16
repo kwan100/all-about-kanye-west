@@ -4,5 +4,5 @@
  (Due to this website's original host provider being no longer in service, features with the database are no longer accesible)
  
  
- Check it out: https://kwan100.github.io/All-About-Kanye-West/index.html
+ Check it out: https://kwan100.github.io/All-About-Kanye-West/
  
